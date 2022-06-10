@@ -8,6 +8,21 @@
    Repository links for the paper <i>Selective Video Enhancement in the Laguerre-Gauss Domain</i>.
 </p>
 
+### Results
+
+<table>
+   <tr>
+      <th>Original</th>
+      <th>Enhanced</th>
+   </tr>
+   <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+   </tr>
+</table>
+
 ### Requirements
 
 
