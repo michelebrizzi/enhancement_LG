@@ -5,7 +5,7 @@
 **<sup>1</sup>Roma Tre University, <sup>2</sup>University of Padova**
 
 <p>
-   Repository links for the paper <i>CURL: Neural Curve Layers for Global Image Enhancement</i>. In this repository you will find a link to the code and information of the datasets. Please raise a Github issue if you need assistance of have any questions on the research. 
+   Repository links for the paper <i>Selective Video Enhancement in the Laguerre-Gauss Domain</i>.
 </p>
 
 ### Requirements
