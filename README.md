@@ -38,7 +38,7 @@ command
 If you use our work in your research, please consider citing as below:
 
 ```
-ref
+@ARTICLE{}
 ```
 
 ### Datasets
