@@ -1,12 +1,14 @@
 # Selective Video Enhancement in the Laguerre-Gauss Domain
 
-[Michele Brizzi](link)<sup>1</sup>, Federica Battisti<sup>2</sup>, Marco Carli<sup>1</sup>, and Alessandro Neri<sup>1</sup>
+Michele Brizzi<sup>1</sup>, Federica Battisti<sup>2</sup>, Marco Carli<sup>1</sup>, and Alessandro Neri<sup>1</sup>
 
 **<sup>1</sup>Roma Tre University, <sup>2</sup>University of Padova**
 
 <p>
-   Repository links for the paper <i>Selective Video Enhancement in the Laguerre-Gauss Domain</i>.
+   Repository for the paper <i>Selective Video Enhancement in the Laguerre-Gauss Domain</i>.
 </p>
+
+[Paper]()
 
 ### Results
 
@@ -42,7 +44,7 @@ If you use our work in your research, please consider citing as below:
 ```
 
 ### Datasets
-* __Adobe-MIT FiveK__ (5000 images): this dataset can be downloaded [here](https://data.csail.mit.edu/graphics/fivek/).
+* __MIT-Adobe FiveK__ (5000 images): this dataset can be downloaded [here](https://data.csail.mit.edu/graphics/fivek/).
 
 ### License
 
