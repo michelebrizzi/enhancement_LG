@@ -78,7 +78,9 @@ Michele Brizzi<sup>1</sup>, Federica Battisti<sup>2</sup>, Marco Carli<sup>1</su
 To use, run the command:
 
 ```
-command
+img = imread(<filename>);
+C = 1.1; % [1-1.5]
+F = enhancementLG(img, C);
 ```
 
 ### Citation
