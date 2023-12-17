@@ -107,5 +107,6 @@ abstract = {Traditional image and video enhancement techniques do not consider t
 * __MIT-Adobe FiveK__ (5000 images): this dataset can be downloaded [here](https://data.csail.mit.edu/graphics/fivek/).
 
 ### License
+See LICENSE file.
 
 ### Contributions
